@@ -19,7 +19,7 @@ gem 'multi_json'
 gem 'oj'
 
 group :production do
-  #gem 'pg'
+  gem 'pg'
   gem 'puma'
   gem 'aws-sdk'
 end

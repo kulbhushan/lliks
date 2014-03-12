@@ -184,6 +184,7 @@ GEM
       cocaine (~> 0.5.0)
       mime-types
     parallel (0.7.1)
+    pg (0.17.1)
     polyglot (0.3.3)
     pry (0.9.12.2)
       coderay (~> 1.0.5)
@@ -344,6 +345,7 @@ DEPENDENCIES
   mina!
   multi_json
   oj
+  pg
   pry-rails
   puma
   quiet_assets
